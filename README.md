@@ -1,4 +1,4 @@
-# sutay-fashion
+# e-commerce
 
 For the Frontend: React, Redux, Styled Components.
 
